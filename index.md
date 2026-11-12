@@ -1,9 +1,10 @@
 # Cynthia's Portfolio
 
-**Cynthia Weng** /n a student at Columbia University's School of International and Public Affairs (SIPA)
- Technology Policy and Innovation (TPI) track
- class of 2028.
+**Cynthia Weng**\
+Columbia University, School of International and Public Affairs (SIPA)\
+Technology Policy and Innovation (TPI)\
+Class of 2028
 
-Hobbies and interests: acting and perform stand-up comedy.
+Hobbies and interests: acting and stand-up comedy.
 
 **Email:** rw3157@columbia.edu
