@@ -1,7 +1,6 @@
 # Cynthia's Portfolio
 
-**Cynthia Weng**
- a student at Columbia University's School of International and Public Affairs (SIPA)
+**Cynthia Weng** /n a student at Columbia University's School of International and Public Affairs (SIPA)
  Technology Policy and Innovation (TPI) track
  class of 2028.
 
